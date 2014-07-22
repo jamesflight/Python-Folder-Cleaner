@@ -1,0 +1,8 @@
+Simple folder cleaner script
+============================
+
+Keeps folders clean of old files.
+
+For each of the directories listed in the config.yml file the script will remove any files or folders older than a specified number of days.
+
+I use this to keep my downloads folder free of old junk.
